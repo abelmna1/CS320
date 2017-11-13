@@ -1,0 +1,8 @@
+This program tests the effectiveness of several branch prediction methods.
+The methods are:
+- Always Taken
+- Always Non-Taken 
+- Bimodal with single bit history 
+- Bimodal with two-bit counters 
+- Gshare
+- Tournament prediction
