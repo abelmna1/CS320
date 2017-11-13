@@ -11,5 +11,5 @@ Organizations used:
 - Set-Associative Cache Next-Line Prefetching 
 - PreFetch upon Miss
 
-- Note that the code uses several function definitions with only slight modifications. Due to time constraints,
-this implementation is by no means the most space-efficient solution.
+- Note that the code uses several function definitions with only slight modifications. 
+Due to time constraints, this implementation is by no means the most space-efficient solution.
