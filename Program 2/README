@@ -1,0 +1,15 @@
+This program measures the effectiveness of multiple data cache organizations and prefetching
+techniques.
+A sample input file will contain approximately 1 million instructions of 
+
+Organizations used:
+
+- Direct-Mapped Cache
+- Set-Associative Cache
+- Fully-Associative Cache
+- Set-Associative Cache with Write Miss (if missed, instruction writes directly to memory)
+- Set-Associative Cache Next-Line Prefetching 
+- PreFetch upon Miss
+
+- Note that the code uses several function definitions with only slight modifications. Due to time constraints,
+this implementation is by no means the most space-efficient solution.
